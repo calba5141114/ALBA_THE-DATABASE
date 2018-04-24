@@ -1,2 +1,2 @@
 # ALBA_THE-DATABASE
-A Database being developed by me in order to 
+A Database being developed by me for fun if it grows it grows.
